@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:/RailApps/MyBlog/.idea/MyBlog.iml" filepath="C:/RailApps/MyBlog/.idea/MyBlog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ROR.iml" filepath="$PROJECT_DIR$/.idea/ROR.iml" />
+    </modules>
+  </component>
+</project>
+

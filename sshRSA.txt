@@ -1,0 +1,49 @@
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCaH6zSJXT9wt5mphBHvu8UMzBc6Wc8CqRTpa//ImfTdCYuvae33Qwia3waOKSOmSKiCPkMMnyu5IaHotzZbjJHttEmvZEWXUz/IVesnqJnsQxVY29MP9SzYZ2S5SNoX3qTjfuEp4YpIhka8cNGrhdWmwwTzItLqz1jorqC/oNweAUd/zcxRTFPnDA7sEsPXBIiUXvZ47OodvVmtsUQKN+htKKspbCPOQY/enUwDrGElcpOgKJTU31xxAtEynKpCUhu2wmQ2iyBif+r0pQD8LJgCcIbCSD7xMQPMEIbDtxgB8Z1YVFcBlYUfGZHWueVXGbZ6mDRC0IY6OgIJuQHY4uV David Gorman <dgorman@baxwood.com>
+
+
+
+# Rails Environment Configuration.
+
+Your git configuration is incomplete.
+user.name and user.email are required for properly using git and services such
+as GitHub ( http://github.com/ ).
+
+ Please enter your name, for example mine is: Wayne E. Seguin
+name > David Gorman
+Setting user.name to David Gorman
+
+ Please enter your email address, for example mine is: wayneeseguin@gmail.com
+email > dgorman@baxwood.com
+Setting user.email to dgorman@baxwood.com
+
+---
+git:
+  user.name:  David Gorman
+  user.email: dgorman@baxwood.com
+  version:    git version 1.9.4.msysgit.1
+
+ruby:
+  bin:        C:/RailsInstaller/Ruby1.9.3/bin/ruby.exe
+  version:    ruby 1.9.3p545 (2014-02-24) [i386-mingw32]
+
+rails:
+  bin:        C:/RailsInstaller/Ruby1.9.3/bin/rails.bat
+  version:    Rails 3.2.19
+
+ssh:
+  public_key_location: C:\Users\462dmg/.ssh/id_rsa.pub
+  public_key_contents: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCaH6zSJXT9wt5mphBHv
+u8UMzBc6Wc8CqRTpa//ImfTdCYuvae33Qwia3waOKSOmSKiCPkMMnyu5IaHotzZbjJHttEmvZEWXUz/I
+VesnqJnsQxVY29MP9SzYZ2S5SNoX3qTjfuEp4YpIhka8cNGrhdWmwwTzItLqz1jorqC/oNweAUd/zcxR
+TFPnDA7sEsPXBIiUXvZ47OodvVmtsUQKN+htKKspbCPOQY/enUwDrGElcpOgKJTU31xxAtEynKpCUhu2
+wmQ2iyBif+r0pQD8LJgCcIbCSD7xMQPMEIbDtxgB8Z1YVFcBlYUfGZHWueVXGbZ6mDRC0IY6OgIJuQHY
+4uV David Gorman <dgorman@baxwood.com>
+
+
+NOTES:
+
+  Your public ssh key (id_rsa.pub) has been automatically generated and copied t
+o your clipboard.
+
+
+C:\Sites>
